@@ -8,13 +8,17 @@
 | **Version** | **0.1.30** |
 | **License** | MIT |
 
+## Art
+
+Parked bicycle sprites are hand-drawn by me.
+
 ## Features
 
 * **Door Valet** — park at doors, then walk in
 * **Dismount** — stand still + **B**
 * **Bike Throw** *(WIP)* — hold direction + **B**
 * **Mount** — **A** on parked bike
-* **Bag Recall** — bag **BICYCLE** very buggy
+* **Bag Recall** — bag **BICYCLE** *(very buggy)*
 * **Palette Match** — OG Color / ADVANCED safe
 
 ## To-Do

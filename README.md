@@ -14,7 +14,7 @@
 * **Dismount** — stand still + **B**
 * **Bike Throw** *(WIP)* — hold direction + **B**
 * **Mount** — **A** on parked bike
-* **Bag Recall** — bag **BICYCLE** still works
+* **Bag Recall** — bag **BICYCLE** very buggy
 * **Palette Match** — OG Color / ADVANCED safe
 
 ## To-Do
